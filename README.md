@@ -38,6 +38,4 @@
   <a href="mailto:wandeper@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center"><i>Thanks for stopping by!</i></p>
