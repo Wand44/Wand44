@@ -14,6 +14,8 @@
   <a> A add-on for Blender 3D to simplify lighting configuration </a>
 - **[WebSite](https://pinkbirthmark.com)** <br>
   <a> A simple website with a submission form </a>
+- **[Blender Copilot](https://github.com/Wand44/blender_copilot)** <br>
+  <a> Fine-tuning for Blender API coding assistant </a>
 
 ---
 
